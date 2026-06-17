@@ -1,14 +1,5 @@
 print("Bienvenido al Banco Digital de Miguel\n".title())
-contraseña = "Lia"
 saldo = 1000
-
-for pene in contraseña in range(1):
-    contra = input("Ingrese su contraseña: ")
-if contra != contraseña:
-        print("Contraseña incorrecta, intente de nuevo\n")
-
-
-print("Bienvenido, ingresaste la contraseña correctamente\n".title())
 
 while True:
     Banco = int(input("¿Que desea hacer?\n 1. Ver Saldo\n 2. Retirar Saldo\n 3. Depositar Saldo\n 4. Salir\n - "))
