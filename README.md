@@ -1,4 +1,5 @@
-# mi-primer-proyecto-de-python
-Es mi primer proyecto que me ha salido bien en el mundo de la programacion.
+# Estos son proyectos personales en python.
 
-No me creo alguien capas de hacer grandes aplicaciones, pero espero algun dia entrar a este repositorio y ver todo lo que he avanzado.
+Uso la ia de google para buscar para que sirven las cosas y como implementarlas en codigo.
+Son proyectos que me apacionan o me dan gracia.
+
