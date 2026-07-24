@@ -1,5 +1,3 @@
-# Estos son proyectos personales en python.
+# Python Personal Projects 
 
-Uso la ia de google para buscar para que sirven las cosas y como implementarlas en codigo.
-Son proyectos que me apacionan o me dan gracia.
-
+i only use a little bit the ai to explain the code.
